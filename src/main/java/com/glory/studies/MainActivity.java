@@ -228,9 +228,9 @@ public class MainActivity extends AppCompatActivity {
                             result += operand;
                         } else if (operator.equals("-")) {
                             result -= operand;
-                        } else if (operator.equals("*")) {
+                        } else if (operator.equals("×")) {
                             result *= operand;
-                        } else if (operator.equals("%")) {
+                        } else if (operator.equals("÷")) {
                             result /= operand;
                         }
                     }
