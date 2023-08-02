@@ -203,7 +203,7 @@
         android:background="#D111B1"
         android:textColor="@android:color/white"
         android:textSize="35sp"
-        android:text="*" />
+        android:text="×" />
 
     <Button
         android:id="@+id/divide_button"
@@ -216,7 +216,7 @@
         android:background="#D111B1"
         android:textColor="@android:color/white"
         android:textSize="35sp"
-        android:text="%" />
+        android:text="÷" />
 
     <Button
         android:id="@+id/equals_button"
